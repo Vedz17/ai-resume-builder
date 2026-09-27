@@ -183,4 +183,4 @@ Open the displayed local URL (e.g., http://localhost:5173) to use the applicatio
 
 <p style="color:#555; font-size:15px;"> If you found this project helpful or interesting, please consider giving it a <span style="color:#C99A57;">⭐ Star</span> on GitHub. </p>
 
-<p style="color:#555; font-size:15px; font-style:italic;"> Crafted by <strong>Akshat Sharma</strong> </p>
+<p style="color:#555; font-size:15px; font-style:italic;"> Crafted by <strong>Vedant Bhamare</strong> </p>
